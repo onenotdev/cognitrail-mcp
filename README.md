@@ -14,10 +14,10 @@
 [![npm total downloads](https://img.shields.io/npm/dt/cognitrail?style=for-the-badge&logo=npm&color=0891b2)](https://www.npmjs.com/package/cognitrail)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_CogniTrail-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/manonebillion)
-[![Trendshift](https://img.shields.io/badge/Trendshift-Explore_Trending_Projects-0f172a?style=for-the-badge)](https://trendshift.io/)
+[![Trendshift](https://img.shields.io/badge/Trendshift-CogniTrail_Listing-0f172a?style=for-the-badge)](https://trendshift.io/repositories/355694)
 
 Stars and forks track this distribution repository; download counts track the npm package.
-Trendshift is an external discovery link, not a claim of ranking or endorsement.
+Trendshift links to the verified CogniTrail listing; listing does not imply a daily or monthly ranking award.
 GitHub's exact repository view counts are private maintainer analytics and are not exposed by these badges.
 
 [Quick Start](#-quick-start) •
@@ -279,4 +279,4 @@ Maintainers build and validate from the private development repository; the publ
 
 If CogniTrail helps your workflow, [star the official repository](https://github.com/onenotdev/cognitrail-mcp) or [buy the maintainer a coffee](https://buymeacoffee.com/manonebillion). Support is optional and does not change the license or grant additional usage rights.
 
-Discover more developer tools on [Trendshift](https://trendshift.io/). An official project-specific Trendshift badge can be added when a verified listing is available.
+View [CogniTrail on Trendshift](https://trendshift.io/repositories/355694). Daily/monthly award cards will be added only when Trendshift provides an official working badge for this repository.
