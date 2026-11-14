@@ -14,7 +14,7 @@
 [![npm total downloads](https://img.shields.io/npm/dt/cognitrail?style=for-the-badge&logo=npm&color=0891b2)](https://www.npmjs.com/package/cognitrail)
 
 <a href="https://buymeacoffee.com/manonebillion" title="Support CogniTrail on Buy Me a Coffee">
-  <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy Me a Coffee" width="48" height="64" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="217" height="60" />
 </a>
 
 Stars and forks track this distribution repository; download counts track the npm package.
