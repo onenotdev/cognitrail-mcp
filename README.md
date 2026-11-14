@@ -13,11 +13,11 @@
 [![npm monthly downloads](https://img.shields.io/npm/dm/cognitrail?style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/cognitrail)
 [![npm total downloads](https://img.shields.io/npm/dt/cognitrail?style=for-the-badge&logo=npm&color=0891b2)](https://www.npmjs.com/package/cognitrail)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_CogniTrail-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/manonebillion)
-[![Trendshift](https://img.shields.io/badge/Trendshift-CogniTrail_Listing-0f172a?style=for-the-badge)](https://trendshift.io/repositories/355694)
+<a href="https://buymeacoffee.com/manonebillion" title="Support CogniTrail on Buy Me a Coffee">
+  <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy Me a Coffee" width="48" height="64" />
+</a>
 
 Stars and forks track this distribution repository; download counts track the npm package.
-Trendshift links to the verified CogniTrail listing; listing does not imply a daily or monthly ranking award.
 GitHub's exact repository view counts are private maintainer analytics and are not exposed by these badges.
 
 [Quick Start](#-quick-start) •
