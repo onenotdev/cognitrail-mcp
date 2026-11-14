@@ -1,0 +1,1 @@
+export class WorkflowError extends Error{['code'];['recoverable'];['missing'];['allowedNextActions'];constructor(_0x1f1b57,_0xceac0f,_0x1b5424,_0xc35b68=[],_0x5d7cc6=[]){super(_0xceac0f),this['name']='WorkflowError',this['code']=_0x1f1b57,this['recoverable']=_0x1b5424,this['missing']=_0xc35b68,this['allowedNextActions']=_0x5d7cc6;}}

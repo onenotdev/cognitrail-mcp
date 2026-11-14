@@ -1,0 +1,9 @@
+{
+  "allowedTools": [
+    "code_edit",
+    "task_context",
+    "task_status",
+    "qa_generate_report"
+  ],
+  "deniedTools": ["destructive_drop_db"]
+}

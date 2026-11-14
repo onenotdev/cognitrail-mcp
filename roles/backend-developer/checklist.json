@@ -1,0 +1,20 @@
+[
+  {
+    "id": "BE-01",
+    "category": "backend",
+    "description": "Use datastore-supported parameter binding and allowlist dynamic query identifiers",
+    "severity": "critical"
+  },
+  {
+    "id": "BE-02",
+    "category": "backend",
+    "description": "Follow project API contracts and query traceability conventions where applicable",
+    "severity": "high"
+  },
+  {
+    "id": "BE-03",
+    "category": "backend",
+    "description": "Preserve atomicity and verify rollback or compensation for related writes",
+    "severity": "critical"
+  }
+]

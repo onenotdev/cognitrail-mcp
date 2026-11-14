@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SEC-01",
+    "category": "security",
+    "description": "Check for exposed secrets and inappropriate handling of sensitive data",
+    "severity": "critical"
+  },
+  {
+    "id": "SEC-02",
+    "category": "security",
+    "description": "Verify authorization and resource isolation against the project access-control model",
+    "severity": "critical"
+  },
+  {
+    "id": "SEC-03",
+    "category": "security",
+    "description": "Verify injection defenses use safe data-access APIs and validated dynamic identifiers",
+    "severity": "critical"
+  }
+]

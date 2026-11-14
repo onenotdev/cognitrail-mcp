@@ -1,0 +1,21 @@
+[
+  {
+    "id": "ARC-01",
+    "category": "architecture",
+    "description": "Ensure clear module boundaries and explicit interface contracts",
+    "severity": "critical",
+    "requiredForGate": "design-approved"
+  },
+  {
+    "id": "ARC-02",
+    "category": "architecture",
+    "description": "Verify responsibilities align with project architecture and requirements",
+    "severity": "high"
+  },
+  {
+    "id": "ARC-03",
+    "category": "architecture",
+    "description": "Eliminate circular dependencies and unnecessary coupling",
+    "severity": "high"
+  }
+]

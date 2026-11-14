@@ -1,0 +1,22 @@
+[
+  {
+    "id": "QA-01",
+    "category": "quality",
+    "description": "Validate acceptance criteria and regression behavior; verify baseline parity when migration applies",
+    "severity": "critical",
+    "requiredForGate": "tests-passed"
+  },
+  {
+    "id": "QA-02",
+    "category": "quality",
+    "description": "Verify boundary values, nullability, and negative error scenarios",
+    "severity": "high"
+  },
+  {
+    "id": "QA-03",
+    "category": "quality",
+    "description": "Collect reproducible structured evidence for executed cases and record unexecuted cases",
+    "severity": "critical",
+    "requiredForGate": "evidence-complete"
+  }
+]

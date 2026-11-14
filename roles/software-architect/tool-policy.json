@@ -1,0 +1,4 @@
+{
+  "allowedTools": ["task_status", "task_context"],
+  "deniedTools": ["destructive_admin_command"]
+}

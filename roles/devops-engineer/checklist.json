@@ -1,0 +1,20 @@
+[
+  {
+    "id": "DO-01",
+    "category": "devops",
+    "description": "Verify the project build and required validation commands succeed",
+    "severity": "critical"
+  },
+  {
+    "id": "DO-02",
+    "category": "devops",
+    "description": "Verify manifests and applicable lockfiles follow project dependency policy",
+    "severity": "high"
+  },
+  {
+    "id": "DO-03",
+    "category": "devops",
+    "description": "Verify startup readiness, graceful shutdown, and owned subprocess cleanup",
+    "severity": "high"
+  }
+]

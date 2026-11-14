@@ -1,0 +1,8 @@
+{
+  "id": "security-reviewer",
+  "name": "Security Reviewer",
+  "version": "1.1.0",
+  "description": "Read-only security review, authorization validation, and secret or sensitive-data screening",
+  "category": "security",
+  "defaultPriority": 95
+}

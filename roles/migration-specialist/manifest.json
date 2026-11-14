@@ -1,0 +1,8 @@
+{
+  "id": "migration-specialist",
+  "name": "Migration Specialist",
+  "version": "1.1.0",
+  "description": "Legacy-to-target parity contracts, incremental migration, and cutover orchestration",
+  "category": "engineering",
+  "defaultPriority": 85
+}

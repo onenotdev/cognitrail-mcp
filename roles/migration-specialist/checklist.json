@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MIG-01",
+    "category": "migration",
+    "description": "Define source-to-target behavior and data parity contracts with explicit exceptions",
+    "severity": "critical"
+  },
+  {
+    "id": "MIG-02",
+    "category": "migration",
+    "description": "Verify compatibility boundaries, write ownership, authorization, and data integrity",
+    "severity": "critical"
+  },
+  {
+    "id": "MIG-03",
+    "category": "migration",
+    "description": "Verify cutover readiness, reconciliation, and rollback or recovery procedures",
+    "severity": "critical"
+  }
+]

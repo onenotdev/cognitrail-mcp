@@ -1,0 +1,1 @@
+export class GetRoleComposition{['roles'];constructor(_0x436ff5){this['roles']=_0x436ff5;}['execute'](_0x432c1b){if(!_0x432c1b||typeof _0x432c1b!=='string')return null;return this['roles']['findCompositionByTaskId'](_0x432c1b);}}

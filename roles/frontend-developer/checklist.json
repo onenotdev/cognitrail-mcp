@@ -1,0 +1,20 @@
+[
+  {
+    "id": "FE-01",
+    "category": "frontend",
+    "description": "Follow the project API contract for request methods, encoding, and mutations",
+    "severity": "critical"
+  },
+  {
+    "id": "FE-02",
+    "category": "frontend",
+    "description": "Use the existing UI components and validate forms with clear loading and error states",
+    "severity": "high"
+  },
+  {
+    "id": "FE-03",
+    "category": "frontend",
+    "description": "Verify responsive behavior, keyboard navigation, and accessible semantics",
+    "severity": "medium"
+  }
+]

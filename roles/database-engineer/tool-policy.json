@@ -1,0 +1,4 @@
+{
+  "allowedTools": ["db_migration_run", "task_context", "task_status"],
+  "deniedTools": ["destructive_drop_db", "unindexed_full_table_scan"]
+}

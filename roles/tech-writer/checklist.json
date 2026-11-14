@@ -1,0 +1,20 @@
+[
+  {
+    "id": "TW-01",
+    "category": "documentation",
+    "description": "Document relevant configuration, defaults, prerequisites, and supported environments",
+    "severity": "high"
+  },
+  {
+    "id": "TW-02",
+    "category": "documentation",
+    "description": "Provide verified operator commands and setup instructions for the project",
+    "severity": "medium"
+  },
+  {
+    "id": "TW-03",
+    "category": "documentation",
+    "description": "Maintain accurate architecture decisions, interface references, and recovery guidance",
+    "severity": "medium"
+  }
+]

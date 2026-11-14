@@ -1,0 +1,20 @@
+[
+  {
+    "id": "DB-01",
+    "category": "database",
+    "description": "Verify the project isolation model, including tenant boundaries when multi-tenancy applies",
+    "severity": "critical"
+  },
+  {
+    "id": "DB-02",
+    "category": "database",
+    "description": "Provide migrations using project tooling with safe rollout and rollback or recovery strategy",
+    "severity": "critical"
+  },
+  {
+    "id": "DB-03",
+    "category": "database",
+    "description": "Validate indexes against query plans, constraints, and write overhead",
+    "severity": "high"
+  }
+]

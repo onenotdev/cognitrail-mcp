@@ -1,0 +1,1 @@
+export const MEMORY_TRANSITIONS={'candidate':{'verify':'verified','reject':'rejected'},'verified':{'request_review':'pending_review','reject':'rejected'},'pending_review':{'promote':'promoted','reject':'rejected'},'promoted':{'invalidate':'invalidated'},'stale':{'invalidate':'invalidated','revalidate':'verified'},'invalidated':{'revalidate':'verified'},'rejected':{}};
