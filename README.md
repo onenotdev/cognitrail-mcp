@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 CogniTrail
+<img src="https://raw.githubusercontent.com/onenotdev/cognitrail-mcp/main/assets/cognitrail-mcp-banner.png" alt="CogniTrail MCP banner" width="100%" />
 
 **Deterministic AI Workflow Orchestrator: Code Graph Indexing, Governed Memory, Multi-Role Personas & Cryptographic Evidence QA**
 
