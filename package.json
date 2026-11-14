@@ -1,6 +1,6 @@
 {
   "name": "cognitrail",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Deterministic AI Workflow Orchestrator: Code Graph Indexing, Governed Memory, Multi-Role Personas & Cryptographic Evidence QA",
   "author": "onenotdev",
   "license": "SEE LICENSE IN LICENSE",

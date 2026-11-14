@@ -8,6 +8,18 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=flat-square)](https://github.com/onenotdev/cognitrail-mcp/blob/main/LICENSE)
 [![Node Version](https://img.shields.io/badge/node-%3E%3D22.0.0-brightgreen?style=flat-square)](https://nodejs.org)
 
+[![GitHub stars](https://img.shields.io/github/stars/onenotdev/cognitrail-mcp?style=for-the-badge&logo=github&color=f5b301)](https://github.com/onenotdev/cognitrail-mcp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/onenotdev/cognitrail-mcp?style=for-the-badge&logo=github&color=6366f1)](https://github.com/onenotdev/cognitrail-mcp/forks)
+[![npm monthly downloads](https://img.shields.io/npm/dm/cognitrail?style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/cognitrail)
+[![npm total downloads](https://img.shields.io/npm/dt/cognitrail?style=for-the-badge&logo=npm&color=0891b2)](https://www.npmjs.com/package/cognitrail)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_CogniTrail-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/manonebillion)
+[![Trendshift](https://img.shields.io/badge/Trendshift-Explore_Trending_Projects-0f172a?style=for-the-badge)](https://trendshift.io/)
+
+Stars and forks track this distribution repository; download counts track the npm package.
+Trendshift is an external discovery link, not a claim of ranking or endorsement.
+GitHub's exact repository view counts are private maintainer analytics and are not exposed by these badges.
+
 [Quick Start](#-quick-start) •
 [CLI Commands](#-cli-commands) •
 [Architecture](#-architecture) •
@@ -262,3 +274,9 @@ The public distribution repository contains packaged runtime files, not the deve
 This is obfuscation, not encryption or a guarantee against reverse engineering. Published JavaScript can still be inspected or modified. Previously published versions remain readable and are not retroactively protected. Proprietary license terms continue to apply.
 
 Maintainers build and validate from the private development repository; the public distribution is not a source checkout.
+
+## Support and community
+
+If CogniTrail helps your workflow, [star the official repository](https://github.com/onenotdev/cognitrail-mcp) or [buy the maintainer a coffee](https://buymeacoffee.com/manonebillion). Support is optional and does not change the license or grant additional usage rights.
+
+Discover more developer tools on [Trendshift](https://trendshift.io/). An official project-specific Trendshift badge can be added when a verified listing is available.
